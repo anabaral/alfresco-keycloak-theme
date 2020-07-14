@@ -20,7 +20,7 @@
         </script>
     <#elseif section = "form">
         <div>
-            <img class="logo" src="${url.resourcesPath}/img/ci-logo.svg" alt="CI">
+            <img class="logo" src="${url.resourcesPath}/img/ci-logo.gif" alt="CI">
         </div>
         <div class="box-container">
             <div>
